@@ -40,6 +40,7 @@
 - [NikolaosDimitrakakis]( https://github.com/NikolaosDimitrakakis) 
 - [lazaraaus](https://github.com/lazaraaus)
 - [Maximiliano Sánchez](https://github.com/maxisan)
+- [SoyabulIslamLincoln](https://github.com/SoyabulIslamLincoln)
 - [Kanti Sonnathi](https://github.com/kantisonnathi)
 - [Milton Orellana] (https://github.com/orellanamilton)
 - [Sina CENGIZ] (https://github.com/sinacengiz)
